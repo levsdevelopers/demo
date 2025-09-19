@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* невысокая стилизация под shadcn */
+body {
+  @apply bg-slate-50 text-slate-900;
+}
+
+body.dark {
+  background-color: #1f2937; /* например темный фон */
+  color: #f3f4f6; /* светлый текст */
+}

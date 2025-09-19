@@ -1,0 +1,121 @@
+{
+  "customers": [
+    {
+      "id": "CUS-001",
+      "name": "Айгерим Нурхан",
+      "email": "aigerim@example.com",
+      "city": "Алматы",
+      "ltv": 245000,
+      "ordersCount": 6,
+      "orders": [
+        { "id": "ORD-1001", "date": "2025-09-01", "total": 52700 },
+        { "id": "ORD-1006", "date": "2025-09-04", "total": 17500 }
+      ]
+    },
+    {
+      "id": "CUS-002",
+      "name": "Иван Петров",
+      "email": "ivan.p@example.com",
+      "city": "Астана",
+      "ltv": 187000,
+      "ordersCount": 4,
+      "orders": [
+        { "id": "ORD-1002", "date": "2025-09-02", "total": 22000 },
+        { "id": "ORD-1009", "date": "2025-09-06", "total": 15500 }
+      ]
+    },
+    {
+      "id": "CUS-003",
+      "name": "Анна Смирнова",
+      "email": "anna.s@example.com",
+      "city": "Алматы",
+      "ltv": 312000,
+      "ordersCount": 8,
+      "orders": [
+        { "id": "ORD-1003", "date": "2025-09-02", "total": 18000 },
+        { "id": "ORD-1017", "date": "2025-09-13", "total": 26000 }
+      ]
+    },
+    {
+      "id": "CUS-004",
+      "name": "Сергей Ким",
+      "email": "sergey.k@example.com",
+      "city": "Астана",
+      "ltv": 96000,
+      "ordersCount": 3,
+      "orders": [
+        { "id": "ORD-1005", "date": "2025-09-03", "total": 12000 }
+      ]
+    },
+    {
+      "id": "CUS-005",
+      "name": "Мария Иванова",
+      "email": "maria.i@example.com",
+      "city": "Алматы",
+      "ltv": 143000,
+      "ordersCount": 5,
+      "orders": [
+        { "id": "ORD-1004", "date": "2025-09-03", "total": 25000 },
+        { "id": "ORD-1015", "date": "2025-09-11", "total": 14000 }
+      ]
+    },
+    {
+      "id": "CUS-006",
+      "name": "Данияр Ахметов",
+      "email": "daniyar.a@example.com",
+      "city": "Шымкент",
+      "ltv": 78000,
+      "ordersCount": 2,
+      "orders": [
+        { "id": "ORD-1007", "date": "2025-09-04", "total": 8000 }
+      ]
+    },
+    {
+      "id": "CUS-007",
+      "name": "Айгуль Садыкова",
+      "email": "aigul.s@example.com",
+      "city": "Алматы",
+      "ltv": 201000,
+      "ordersCount": 7,
+      "orders": [
+        { "id": "ORD-1010", "date": "2025-09-07", "total": 21000 },
+        { "id": "ORD-1020", "date": "2025-09-15", "total": 29000 }
+      ]
+    },
+    {
+      "id": "CUS-008",
+      "name": "Павел Сидоров",
+      "email": "pavel.s@example.com",
+      "city": "Астана",
+      "ltv": 115000,
+      "ordersCount": 4,
+      "orders": [
+        { "id": "ORD-1008", "date": "2025-09-05", "total": 30000 },
+        { "id": "ORD-1012", "date": "2025-09-08", "total": 27000 }
+      ]
+    },
+    {
+      "id": "CUS-009",
+      "name": "Жанар К.",
+      "email": "zhanar.k@example.com",
+      "city": "Алматы",
+      "ltv": 98000,
+      "ordersCount": 3,
+      "orders": [
+        { "id": "ORD-1013", "date": "2025-09-09", "total": 18500 }
+      ]
+    },
+    {
+      "id": "CUS-010",
+      "name": "Алексей Морозов",
+      "email": "alexey.m@example.com",
+      "city": "Астана",
+      "ltv": 154000,
+      "ordersCount": 5,
+      "orders": [
+        { "id": "ORD-1014", "date": "2025-09-10", "total": 32000 },
+        { "id": "ORD-1018", "date": "2025-09-14", "total": 28000 }
+      ]
+    }
+  ]
+}

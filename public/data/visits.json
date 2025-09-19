@@ -1,0 +1,17 @@
+{
+  "visits": [
+    {
+      "date": "2025-08-01",
+      "channel": "Web",
+      "city": "Алматы",
+      "visits": 1200
+    },
+    {
+      "date": "2025-08-02",
+      "channel": "Mobile",
+      "city": "Астана",
+      "visits": 800
+    },
+    { "date": "2025-08-03", "channel": "Web", "city": "Алматы", "visits": 900 }
+  ]
+}

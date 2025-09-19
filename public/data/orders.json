@@ -1,0 +1,102 @@
+{
+  "orders": [
+    {
+      "id": "ORD-1001",
+      "date": "2025-09-01",
+      "customerId": "CUS-001",
+      "customerName": "Иван Петров",
+      "city": "Алматы",
+      "channel": "Web",
+      "status": "New",
+      "total": 15000,
+      "items": [
+        { "sku": "SKU-1", "name": "Product A", "qty": 1, "price": 15000 }
+      ],
+      "comment": "Позвонить перед доставкой"
+    },
+    {
+      "id": "ORD-1002",
+      "date": "2025-09-02",
+      "customerId": "CUS-002",
+      "customerName": "Анна Смирнова",
+      "city": "Астана",
+      "channel": "Mobile",
+      "status": "Processing",
+      "total": 22000,
+      "items": [
+        { "sku": "SKU-2", "name": "Product B", "qty": 2, "price": 11000 }
+      ],
+      "comment": ""
+    },
+    {
+      "id": "ORD-1003",
+      "date": "2025-09-02",
+      "customerId": "CUS-003",
+      "customerName": "Данияр Ахметов",
+      "city": "Алматы",
+      "channel": "Web",
+      "status": "Shipped",
+      "total": 18000,
+      "items": [
+        { "sku": "SKU-3", "name": "Product C", "qty": 1, "price": 18000 }
+      ],
+      "comment": "Доставка вечером"
+    },
+    {
+      "id": "ORD-1004",
+      "date": "2025-09-03",
+      "customerId": "CUS-004",
+      "customerName": "Мария Иванова",
+      "city": "Алматы",
+      "channel": "Web",
+      "status": "Delivered",
+      "total": 25000,
+      "items": [
+        { "sku": "SKU-1", "name": "Product A", "qty": 2, "price": 12500 }
+      ],
+      "comment": ""
+    },
+    {
+      "id": "ORD-1005",
+      "date": "2025-09-03",
+      "customerId": "CUS-005",
+      "customerName": "Сергей Ким",
+      "city": "Астана",
+      "channel": "Offline",
+      "status": "New",
+      "total": 12000,
+      "items": [
+        { "sku": "SKU-4", "name": "Product D", "qty": 3, "price": 4000 }
+      ],
+      "comment": "Оплата наличными"
+    },
+    {
+      "id": "ORD-1006",
+      "date": "2025-09-04",
+      "customerId": "CUS-006",
+      "customerName": "Айгерим Нуржан",
+      "city": "Шымкент",
+      "channel": "Mobile",
+      "status": "Processing",
+      "total": 17500,
+      "items": [
+        { "sku": "SKU-2", "name": "Product B", "qty": 1, "price": 17500 }
+      ],
+      "comment": ""
+    },
+    {
+      "id": "ORD-1007",
+      "date": "2025-09-04",
+      "customerId": "CUS-007",
+      "customerName": "Павел Сидоров",
+      "city": "Алматы",
+      "channel": "Offline",
+      "status": "Delivered",
+      "total": 8000,
+      "items": [
+        { "sku": "SKU-5", "name": "Product E", "qty": 2, "price": 4000 }
+      ],
+      "comment": ""
+    }
+  ]
+}
